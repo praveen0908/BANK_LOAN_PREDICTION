@@ -16,7 +16,7 @@ As it can be seen, the data consists of various important features in making the
 ## VISUALIZATIONS
 Classification Performance
  
-![image](https://user-images.githubusercontent.com/106819107/214521905-4532c4eb-1b57-4c1e-b83b-3bcfdba1caad.png)
+![image]()
 
 
 
@@ -32,7 +32,6 @@ Accuracy: 0.9820
 ## CONCLUSION
 Hence, this project concludes the loan approval prediction system, using artificial neural network, deciding whether a bank customer should be approved a loan or not.
 
-## SOCIAL MEDIA
-Github: https://github.com/Gaurav-8604
+
 
 
